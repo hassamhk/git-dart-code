@@ -5,7 +5,7 @@ class Gari {
   Gari({this.name = "W11", this.engineCC = 4000});
 
   gariKaStatus() {
-    print("ABCDEF Gari Ka naam: $name\nGari ka CC $engineCC");
+    print("ABC Gari Ka naam: $name\nGari ka CC $engineCC");
   }
 }
 
